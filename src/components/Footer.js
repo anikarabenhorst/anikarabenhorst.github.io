@@ -56,7 +56,7 @@ const Footer = () => (
       </a>
     </div>
     <div className="footer__text">
-      <p>created with &lt3 by anika &copy 2021 </p>
+      <p>created with &lt;3 by anika &copy; 2021 </p>
     </div>
   </div>
 );
