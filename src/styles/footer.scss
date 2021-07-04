@@ -1,0 +1,35 @@
+.footer {
+  padding: 1em 0;
+  &__socials {
+    text-align: center;
+    a {
+      padding: 0 0.7rem;
+      color: $black;
+    }
+
+    &__row {
+      flex-direction: row;
+    }
+
+    &__column {
+      text-align: center;
+    }
+  }
+  svg {
+    width: 220px;
+    height: 220px;
+  }
+}
+.footer__text {
+  display: block;
+  text-align: center;
+  p {
+    color: $black;
+  }
+}
+@media (max-width: 812px) {
+  .footer {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
