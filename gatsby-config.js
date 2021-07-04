@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "Anika Rabenhorst",
+    siteUrl: "https://anikarabenhorst.github.io/",
+    title: "anika rabenhorst",
   },
   plugins: ["gatsby-plugin-sass"],
 };

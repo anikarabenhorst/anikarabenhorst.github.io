@@ -4,6 +4,7 @@
   "private": true,
   "description": "Anika Rabenhorst",
   "author": "anikarabenhorst",
+  "homepage": "https://anikarabenhorst.github.io/",
   "keywords": [
     "gatsby"
   ],
@@ -20,5 +21,8 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "sass": "^1.35.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
