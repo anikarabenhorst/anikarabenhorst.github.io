@@ -15,3 +15,11 @@ anika's personal website created using [Gatsby](https://www.gatsbyjs.com/).
     
     the site is now running at http://localhost:8000!
 
+## how to deploy
+bc of github pages, it is annoying.
+1.  ** commit code **
+2.  ** navigate into site directory
+
+     ```shell
+    npm run deploy
+    ```
