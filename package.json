@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d src",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
